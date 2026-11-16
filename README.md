@@ -17,8 +17,6 @@ To become a strong backend engineer: writing clean, fast, reliable Go services, 
 
 <div align="center">
 
-🎌 *anime fan*
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2cbf,50:2b1055,100:0d0221&height=60&section=footer" width="100%" />
 
 </div>
