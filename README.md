@@ -15,8 +15,3 @@ To become a strong backend engineer: writing clean, fast, reliable Go services, 
 ![Linux](https://img.shields.io/badge/Linux-0d0221?style=for-the-badge&logo=linux&logoColor=c77dff)
 ![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=c77dff)
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2cbf,50:2b1055,100:0d0221&height=60&section=footer" width="100%" />
-
-</div>
